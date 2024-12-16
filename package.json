@@ -1,0 +1,9 @@
+{
+  "name": "repro-tsdoc-markdown-private-identifiers",
+  "scripts": {
+    "repro": "tsdoc --src=mock.ts"
+  },
+  "dependencies": {
+    "tsdoc-markdown": "1.0.0"
+  }
+}
